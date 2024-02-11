@@ -15,7 +15,8 @@ The objective of this analysis is to uncover patterns and relationships within t
 - Quick Measures
 - Data Transformation
 - Visualization
-- Team Work
+- Teamwork
+
 
 ## Data Transformation
 
@@ -32,7 +33,7 @@ Correlation between Age and Charges  |    Correlation between BMI and Charges
 
 ## Visualizations
 
-The report contains two pages. We utilized various visualization techniques, including charts and graphs, to communicate insights effectively to stakeholders. This short [video]( https://youtu.be/P7hvHrLNZvQ) showcases the interactive features of our Power BI report.
+The report contains two pages. We utilized various visualization techniques, including charts and graphs, to communicate insights effectively to stakeholders. Interact with dashboard [here]( https://www.novypro.com/project/health-insurance-analysis-1) .
 
 ![](report_1.PNG)
 
@@ -61,7 +62,7 @@ Smokers - Correlation between age and charges is 0.37, suggesting a moderate pos
 - Age Group Analysis: The analysis focuses on categorizing age groups into age ranges to understand the relationship between age and charges. Individuals aged 51 and above (51+) contribute to a substantial portion of the overall charges, age group 36-50 follows with the second-highest average charges and individuals between 18-35 age group exhibit the lowest average charges. The observed trend suggests a positive correlation between age and healthcare costs within the dataset.
 
 
-## RECCOMENDATIONS
+## RECOMMENDATIONS
 1.Introduce customer education campaigns to raise awareness about the impact of lifestyle factors on insurance costs. Informed policyholders may make healthier choices, leading to better risk profiles and potential cost savings for both the insured and the insurance company.
 
 2.Consider developing insurance products specifically designed for different demographic segments. Tailored products could address the unique risk profiles associated with age, smoking status, and other relevant variables, providing customers with more personalized coverage options.
