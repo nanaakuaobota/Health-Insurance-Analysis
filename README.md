@@ -55,7 +55,7 @@ Our analysis reveals that non-smokers incur 50.54% of the charges as opposed to 
 
 
 - Correlation Between Age and Charges/Correlation Between BMI and Charges:
-The total correlation between age and charges coefficient is 0.30, indicating a weak positive linear relationship. This suggests that, on average, as age increases, there is a tendency for charges to also increase, though the relationship is not very strong. On the other hand, the total correlation coefficient is 0.20, indicating a weak positive linear relationship between BMI and charges. As BMI increases, there is a tendency for charges to increase, but the influence is minimal.
+The total correlation between age and charges coefficient is 0.30, indicating a weak positive linear relationship. This suggests that, on average, as age increases, there is a tendency for charges to also increase, though the relationship is not very strong. On the other hand, the total correlation coefficient for BMI and charges is 0.20, indicating a weak positive linear relationship between BMI and charges. As BMI increases, there is a tendency for charges to increase, but the influence is minimal.
 Non-smokers - Correlation between age and charges is 0.63, suggesting a moderately strong positive relationship whilst correlation between BMI and charges is 0.08, indicating a very weak positive relationship.
 Smokers - Correlation between age and charges is 0.37, suggesting a moderate positive relationship whilst correlation between BMI and charges is 0.81, indicating a strong positive relationship. While age and BMI show some correlation with charges, it's essential to recognize that correlation does not imply causation.
 
