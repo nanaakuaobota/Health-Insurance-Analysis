@@ -9,6 +9,19 @@ The objective of this analysis is to uncover patterns and relationships within t
 
 **_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, this is just a dumy dataset to demonstrate the capabilities of PowerBI._
 
+## About Data Set
+
+The dataset contains 1338 rows of insured data, where the insurance charges are given against the following attributes of the insured: Age, Sex, BMI, Children, Smoker, and Region. The attributes are a mix of numeric and categorical variables. 
+
+-	age: Age of primary beneficiary 
+- sex: Gender of the customer female, male 
+- BMI: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9. 
+- children: Number of children 
+- smoker: Smoking status
+- region: The beneficiary's residential area.
+- charges: Individual medical costs billed by health insurance. 
+
+
 ## Skills Demonstrated
 
 - DAX
@@ -56,8 +69,13 @@ Our analysis reveals that non-smokers incur 50.54% of the charges as opposed to 
 
 - Correlation Between Age and Charges/Correlation Between BMI and Charges:
 The total correlation between age and charges coefficient is 0.30, indicating a weak positive linear relationship. This suggests that, on average, as age increases, there is a tendency for charges to also increase, though the relationship is not very strong. On the other hand, the total correlation coefficient for BMI and charges is 0.20, indicating a weak positive linear relationship between BMI and charges. As BMI increases, there is a tendency for charges to increase, but the influence is minimal.
-Non-smokers - Correlation between age and charges is 0.63, suggesting a moderately strong positive relationship whilst correlation between BMI and charges is 0.08, indicating a very weak positive relationship.
-Smokers - Correlation between age and charges is 0.37, suggesting a moderate positive relationship whilst correlation between BMI and charges is 0.81, indicating a strong positive relationship. While age and BMI show some correlation with charges, it's essential to recognize that correlation does not imply causation.
+
+    Non-smokers  : Correlation between age and charges is 0.63, suggesting a moderately strong positive relationship whilst 
+    correlation between BMI and charges is 0.08, indicating a very weak positive relationship.
+
+   Smokers : Correlation between age and charges is 0.37, suggesting a moderate positive relationship whilst correlation 
+  between BMI and charges is 0.81, indicating a strong positive relationship. While age and BMI show some correlation with 
+  charges, it's essential to recognize that correlation does not imply causation.
 
 - Age Group Analysis: The analysis focuses on categorizing age groups into age ranges to understand the relationship between age and charges. Individuals aged 51 and above (51+) contribute to a substantial portion of the overall charges, age group 36-50 follows with the second-highest average charges and individuals between 18-35 age group exhibit the lowest average charges. The observed trend suggests a positive correlation between age and healthcare costs within the dataset.
 
