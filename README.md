@@ -46,7 +46,7 @@ Correlation between Age and Charges  |    Correlation between BMI and Charges
 
 ## Visualizations
 
-The report contains two pages. We utilized various visualization techniques, including charts and graphs, to communicate insights effectively to stakeholders. Interact with dashboard [here]( https://www.novypro.com/project/health-insurance-analysis-1) .
+The report contains two pages. We utilized various visualization techniques, including charts and graphs, to communicate insights effectively to stakeholders. Interact with dashboard [here](https://www.novypro.com/project/health-insurance-analysis-power-bi) .
 
 ![](report_1.PNG)
 
